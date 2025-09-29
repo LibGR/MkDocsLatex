@@ -1,6 +1,6 @@
 site_name: Cours de Maths
-site_url: https://<ton-utilisateur>.github.io/<nom-du-repo>/
-repo_url: https://github.com/<ton-utilisateur>/<nom-du-repo>
+#site_url: https://<ton-utilisateur>.github.io/<nom-du-repo>/
+#repo_url: https://github.com/<ton-utilisateur>/<nom-du-repo>
 theme:
   name: material
   features:
